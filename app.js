@@ -43,5 +43,8 @@ const rainy = {
  ht="700px",
  alter="image for summer season"
 }
-let climate = 
+function climate()
+{
+  const loc = document.getElementById('location')
+}
 
